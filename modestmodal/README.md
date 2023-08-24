@@ -27,22 +27,31 @@ ModestModal est une bibliothèque simple qui fournit un composant modal pour vos
 - [![npm](https://img.shields.io/badge/npm-v7.24.0-blue)](https://www.npmjs.com/)
 - VSCode
 
-### 🚀 Installation et Utilisation
+## 🚀 Installation
+
+### Via npm
+
+Pour installer ModestModal via npm, utilisez la commande suivante :
+
+npm i modestmodal
+
+### Via git
 
 1. **Clonez le dépôt de ModestModal :**
 
-   `git clone [lien vers votre dépôt git]`
-
-2. **Accédez au répertoire du projet et installez les dépendances :**
-
    ```bash
-   cd modestmodal
-   npm install
+   git clone https://github.com/Winters67/ModestModal
    ```
+
+Accédez au répertoire du projet et installez les dépendances :
+
+cd modestmodal
+npm install
+
+Démarrage du projet :
 
 npm start
 
-Le projet est maintenant accessible à l'URL http://localhost:[port]
-
 ✍️ Auteur <a name = "authors"></a>
+
 @Winters
