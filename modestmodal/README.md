@@ -20,7 +20,6 @@ ModestModal est une bibliothèque simple qui fournit un composant modal pour vos
 [![React](https://img.shields.io/badge/React-v18.2.0-blue)](https://fr.reactjs.org/)
 [![React-DOM](https://img.shields.io/badge/React--DOM-v18.2.0-blue)](https://fr.reactjs.org/)
 [![Jest](https://img.shields.io/badge/Jest-v29.6.3-red)](https://jestjs.io/)
-... _[Vous pouvez ajouter plus de badges pour les autres dépendances]_
 
 ### Prérequis
 
@@ -40,7 +39,7 @@ ModestModal est une bibliothèque simple qui fournit un composant modal pour vos
    cd modestmodal
    npm install
    ```
-   
+
 npm start
 
 Le projet est maintenant accessible à l'URL http://localhost:[port]
