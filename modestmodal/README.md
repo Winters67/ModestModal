@@ -33,7 +33,9 @@ ModestModal est une bibliothèque simple qui fournit un composant modal pour vos
 
 Pour installer ModestModal via npm, utilisez la commande suivante :
 
-npm i modestmodal
+Dans le projet où vous souhaitez utiliser ce composant, exécutez la commande npm i modestmodal.
+
+Importez le composant avec import Modal from 'modestmodal' et utilisez-le comme n'importe quel autre composant React.
 
 ### Via git
 
