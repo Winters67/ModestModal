@@ -37,6 +37,10 @@ Dans le projet où vous souhaitez utiliser ce composant, exécutez la commande n
 
 Importez le composant avec import Modal from 'modestmodal' et utilisez-le comme n'importe quel autre composant React.
 
+Démarrage du projet :
+
+npm start
+
 ### Via git
 
 1. **Clonez le dépôt de ModestModal :**
@@ -45,14 +49,7 @@ Importez le composant avec import Modal from 'modestmodal' et utilisez-le comme 
    git clone https://github.com/Winters67/ModestModal
    ```
 
-Accédez au répertoire du projet et installez les dépendances :
 
-cd modestmodal
-npm install
-
-Démarrage du projet :
-
-npm start
 
 ✍️ Auteur <a name = "authors"></a>
 
